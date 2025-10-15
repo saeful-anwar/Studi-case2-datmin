@@ -1,1 +1,1 @@
-# capstone
+# STUDI CASE 2
